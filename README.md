@@ -1,6 +1,6 @@
 ## Ola! Sou Sabrina Ellen, estudante de desenvolvimento Web!
 
-- 🌱 Estudo JavaScript, Phyton e SQL
+- 🌱 Estudo JavaScript, React, Angular, Phyton e SQL
 - 😄 Pronouns: Ela/Dela
 
 <div align="center">
