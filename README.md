@@ -1,6 +1,6 @@
 ## Ola! Sou Sabrina Ellen...
 
-- 🌱 Estudo Desenvolvimento Web - HTML, CSS, JavaScript - Angular, Bootstrap
+- 🌱 Estudo Desenvolvimento Web - HTML, CSS, JavaScript, TypeScript - Angular, ReactJS, Bootstrap
 - 😄 Pronouns: Ela/Dela
 
 <div align="center">
